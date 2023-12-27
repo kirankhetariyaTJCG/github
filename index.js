@@ -4,6 +4,7 @@ console.log(typeof a);
 // Variable store string data type
 a = "GeeksforGeeks";
 console.log(typeof a);
+
  
 // Variable store Boolean data type
 a = true;
