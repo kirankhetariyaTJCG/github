@@ -10,3 +10,16 @@ let y = 3;
 
 console.log("Multiplication of", x,
   "and", y, "is", multiply(x, y));
+
+  let a = 35;
+console.log(typeof a);
+ 
+a = "GeeksforGeeks";
+console.log(typeof a);
+
+ 
+a = true;
+console.log(typeof a);
+ 
+a = undefined;
+console.log(typeof a);
