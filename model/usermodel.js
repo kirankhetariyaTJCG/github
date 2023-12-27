@@ -1,6 +1,5 @@
 function multiply(num1, num2) {
 
-	// It returns the multiplication
 	// of num1 and num2
 	return num1 * num2;
 }
