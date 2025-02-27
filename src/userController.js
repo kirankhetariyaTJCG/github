@@ -13,6 +13,20 @@ console.log("Type of variable company:", typeof company);
 
 
 let a = 35;
+let a = 355;
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
 console.log(typeof a);
 console.log(typeof a);
 console.log(typeof a);
