@@ -1,27 +1,19 @@
 name: Build
-
 on:
   push:
     branches:
       - main
-
-
+  pull_request:
+    types: [opened, synchronize, reopened]
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    permissions: read-all
+  sonarqube:
+    name: SonarQube
+    runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
-      - uses: sonarsource/sonarqube-scan-action@master
+      - name: SonarQube Scan
+        uses: SonarSource/sonarqube-scan-action@v4
         env:
-          SONAR_TOKEN: "sqp_04e3088e8bf44671f8f6ef9d955207399164ac9d"
-          SONAR_HOST_URL: "http://localhost:9000"
-      # If you wish to fail your job when the Quality Gate is red, uncomment the
-      # following lines. This would typically be used to fail a deployment.
-      # - uses: sonarsource/sonarqube-quality-gate-action@master
-      #   timeout-minutes: 5
-      #   env:
-      #     SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
