@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                  // Specifies ECMAScript target version
+    "module": "commonjs",              // CommonJS for Node.js modules
+    "outDir": "./dist",                // Output directory for compiled JS files
+    "baseUrl": ".",                    // Base URL to resolve non-relative module names
+    "rootDir": "./",                   // Root directory for TypeScript source files
+    "strict": true,                    // Enables all strict type-checking options
+    "esModuleInterop": true,           // Ensures compatibility with CommonJS/ES modules
+    "skipLibCheck": true,              // Skips checking types from .d.ts files
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+        "@Validation/*": ["validation/*"],
+        "@Utils/*": ["utils/*"],
+        "@Middleware/*": ["middleware/*"],
+        "@Controllers/*": ["controllers/*"],
+        "@Models/*": ["models/*"],
+        "@Config/*": ["config/*"],
+        "@Routes/*": ["routes/*"],
+    }
+  },
+  "include": ["./**/*.ts"],            // Include all TypeScript files in the project
+  "exclude": ["node_modules"]          // Exclude the node_modules folder
+}

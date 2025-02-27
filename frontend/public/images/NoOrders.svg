@@ -1,0 +1,43 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 472 382" width="472" height="382">
+	<title>NoOrders-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-71h500v500h-500z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff;stroke: #c0bebc;stroke-width: 8.6 } 
+		.s1 { fill: none;stroke: #e5e5ea;stroke-linecap: round;stroke-width: 8.6 } 
+		.s2 { fill: #d9d9d9 } 
+		.s3 { fill: #ff5833 } 
+		.s4 { fill: #eb3b0a } 
+		.s5 { fill: #ffffff } 
+		.s6 { fill: none;stroke: #eb3b0a;stroke-linecap: round;stroke-width: 6.8 } 
+		.s7 { fill: none;stroke: #bd1313;stroke-linecap: round;stroke-width: 8.6 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m23.2 230.6h211.4c4.7 0 8.6 3.8 8.6 8.6v64.7c0 4.7-3.9 8.6-8.6 8.6h-211.4c-4.8 0-8.6-3.9-8.6-8.6v-64.7c0-4.8 3.8-8.6 8.6-8.6z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m132.3 252.8h-97.2"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m157.9 273.2h-122.8"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m192 293.7h-156.9"/>
+			<path id="Layer" class="s2" d="m197.1 242.5h18.8c4.7 0 8.5 3.9 8.5 8.6v18.7c0 4.7-3.8 8.6-8.5 8.6h-18.8c-4.7 0-8.5-3.9-8.5-8.6v-18.7c0-4.7 3.8-8.6 8.5-8.6z"/>
+			<path id="Layer" class="s0" d="m217.6 15.7h211.5c4.7 0 8.5 3.8 8.5 8.5v64.8c0 4.7-3.8 8.5-8.5 8.5h-211.5c-4.7 0-8.5-3.8-8.5-8.5v-64.8c0-4.7 3.8-8.5 8.5-8.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m326.8 37.8h-97.3"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m352.3 58.3h-122.8"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m386.5 78.8h-157"/>
+			<path id="Layer" class="s2" d="m391.6 27.6h18.7c4.7 0 8.6 3.8 8.6 8.6v18.7c0 4.7-3.9 8.5-8.6 8.5h-18.7c-4.7 0-8.6-3.8-8.6-8.5v-18.7c0-4.8 3.9-8.6 8.6-8.6z"/>
+			<path id="Layer" class="s3" d="m334 231.4l30.2 30.2-14.5 14.4-30.2-30.1z"/>
+			<path id="Layer" class="s4" d="m334 231.4l8.5 8.4-14.5 14.5-8.5-8.4z"/>
+			<path id="Layer" class="s4" d="m353.3 248.3c1.3-1.3 3.5-1.3 4.8 0l100.1 100.1c5.4 5.3 5.4 14 0 19.3l-2.3 2.4c-5.4 5.3-14.1 5.3-19.4 0l-100.1-100.1c-1.3-1.3-1.3-3.5 0-4.8z"/>
+			<path id="Layer" class="s5" d="m352.1 256.7c1.3-1.3 3.5-1.3 4.8 0l97.1 97.1c1.7 1.7 1.7 4.4 0 6.1-1.6 1.6-4.3 1.6-6 0l-97.1-97.1c-1.3-1.4-1.3-3.5 0-4.9z"/>
+			<path id="Layer" fill-rule="evenodd" class="s3" d="m169.4 80c44.9-44.9 117.8-44.9 162.8 0 45 45 45 117.9 0 162.9-45 44.9-117.9 44.9-162.8 0-45-45-45-117.9 0-162.9zm15.6 147.2c36.4 36.3 95.2 36.3 131.5 0 36.3-36.3 36.3-95.2 0-131.5-36.3-36.3-95.1-36.3-131.5 0-36.3 36.3-36.3 95.2 0 131.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s6" d="m238.8 50.1c-24.7 2.6-48.8 13.4-67.8 32.3-43.8 43.9-43.8 115 0 158.8 43.9 43.8 115 43.8 158.8 0q3.3-3.3 6.3-6.9"/>
+			<path id="Layer" class="s0" d="m103.3 123.1h211.5c4.7 0 8.6 3.9 8.6 8.6v64.7c0 4.8-3.9 8.6-8.6 8.6h-211.5c-4.7 0-8.5-3.8-8.5-8.6v-64.7c0-4.7 3.8-8.6 8.5-8.6z"/>
+			<path id="Layer" fill-rule="evenodd" class="s7" d="m290.9 140.2l-18.7 18.8m0-18.8l18.7 18.8"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m212.5 145.3h-97.3"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m238.1 165.8h-122.9"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m272.2 186.2h-157"/>
+		</g>
+	</g>
+</svg>
