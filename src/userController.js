@@ -14,6 +14,8 @@ console.log("Type of variable company:", typeof company);
 
 let a = 35;
 console.log(typeof a);
+console.log(typeof a);
+console.log(typeof a);
  
 a = "GeeksforGeeks";
 console.log(typeof a);
